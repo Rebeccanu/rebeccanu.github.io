@@ -1,4 +1,12 @@
-h2 {
-  background-color: #607d8b;
-  color: #ffffff;
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: violet;
+}
+h3 {
+    color: blue;
+}
+p {
+    color: purple;
 }
